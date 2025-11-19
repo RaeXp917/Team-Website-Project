@@ -53,27 +53,51 @@
 
 ### 📌 Κλέαρχος Χλιούμπης
 
-**git status & add**
-![Klearchos Status](assets/img/Klearxos_Xlioumphs_bash_1.png)
+<div align="center">
 
-**git commit -m**
-![Klearchos Commit](assets/img/Klearxos_Xlioumphs_bash_2.png)
+<h3>git status & add</h3>
 
-**git log history**
-![Klearchos Log](assets/img/Klearxos_Xlioumphs_bash_3.png)
+<img src="assets/img/Klearxos_Xlioumphs_bash_1.png" alt="Klearchos Status" width="90%">
 
+<br><br>
+
+<h3>git commit -m</h3>
+
+<img src="assets/img/Klearxos_Xlioumphs_bash_2.png" alt="Klearchos Commit" width="90%">
+
+<br><br>
+
+<h3>git log history</h3>
+
+<img src="assets/img/Klearxos_Xlioumphs_bash_3.png" alt="Klearchos Log" width="90%">
+
+</div>
+
+<br>
+<hr>
 <br>
 
 ### 📌 Φοινικίδης Αριστείδης
 
-**git status**
-![Aristidis Status](assets/img/Aristidis_Finikidis_bash_1.png)
+<div align="center">
 
-**git commit**
-![Aristidis Commit](assets/img/Aristidis_Finikidis_bash_2.png)
+<h3>git status</h3>
 
-**git log**
-![Aristidis Log](assets/img/Aristidis_Finikidis_bash_3.png)
+<img src="assets/img/Aristidis_Finikidis_bash_1.png" alt="Aristidis Status" width="90%">
+
+<br><br>
+
+<h3>git commit</h3>
+
+<img src="assets/img/Aristidis_Finikidis_bash_2.png" alt="Aristidis Commit" width="90%">
+
+<br><br>
+
+<h3>git log</h3>
+
+<img src="assets/img/Aristidis_Finikidis_bash_3.png" alt="Aristidis Log" width="90%">
+
+</div>
 
 ---
 
