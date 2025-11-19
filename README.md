@@ -54,26 +54,26 @@
 ### 📌 Κλέαρχος Χλιούμπης
 
 **git status & add**
-![Klearchos Status](assets/img/klearchos_status.png)
+![Klearchos Status](assets/img/Klearxos_Xlioumphs_bash_1.png)
 
 **git commit -m**
-![Klearchos Commit](assets/img/klearchos_commit.png)
+![Klearchos Commit](assets/img/Klearxos_Xlioumphs_bash_2.png)
 
 **git log history**
-![Klearchos Log](assets/img/klearchos_log.png)
+![Klearchos Log](assets/img/Klearxos_Xlioumphs_bash_3.png)
 
 <br>
 
 ### 📌 Φοινικίδης Αριστείδης
 
 **git status**
-![Aristidis Status](assets/img/aristidis_status.png)
+![Aristidis Status](assets/img/Aristidis_Finikidis_bash_1.png)
 
 **git commit**
-![Aristidis Commit](assets/img/aristidis_commit.png)
+![Aristidis Commit](assets/img/Aristidis_Finikidis_bash_2.png)
 
 **git log**
-![Aristidis Log](assets/img/aristidis_log.png)
+![Aristidis Log](assets/img/Aristidis_Finikidis_bash_3.png)
 
 ---
 
