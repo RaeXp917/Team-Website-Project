@@ -1,47 +1,106 @@
-# IEK – Git Project Template
+# Digital Horizon Overview
+---
 
-Αυτό το αποθετήριο είναι σκελετός για **εξάσκηση Git**. Δεν απαιτούνται γνώσεις κατασκευής ιστοσελίδων.
+## 🔍 Ποιοι είμαστε
 
-## Στόχοι
-- Χρήση `git init`, `add`, `commit`, `status`, `log`
-- Εργασία με `branch` και `merge`
-- Προβολή διαφορών `git diff` και επαναφορά (`restore`/`checkout`)
-- Διαγραφή/εξαίρεση αρχείων (`git rm`, `.gitignore`)
-- Tags & έκδοση (`git tag`)
+Η **Digital Horizon** (ίδρυση 2024) είναι μια ομάδα που συνδυάζει:
+*   🛠️ Τεχνική ανάπτυξη (web & software)
+*   🎨 UI/UX σχεδιασμό
+*   🚀 Καινοτομία στη δημιουργία ψηφιακών εμπειριών
 
-## Δομή
-```
-assets/
-  css/style.css
-  js/script.js
-  img/
-docs/
-  README.html (προαιρετικά δημιουργήστε από αυτό το README)
-drafts/           # πρόχειρα (σκεφτείτε αν πρέπει να αγνοούνται)
-temp/             # προσωρινά αρχεία (πρέπει να αγνοούνται)
-index.html
-README.md
-.gitignore        # με σχόλια/οδηγίες
-```
+---
 
-## Προτεινόμενες αλλαγές (μη τεχνικές)
-- Αλλάξτε τίτλο/κείμενα στο `index.html`
-- Αλλάξτε χρώμα `--primary` στο `assets/css/style.css`
-- Προσθέστε εικόνα στον φάκελο `assets/img/` και αναφορά στο `index.html`
-- Προσθέστε νέα σελίδα `about.html` ή ενότητα "Ομάδα"
-- Συμπληρώστε το `.gitignore` (δείτε παρακάτω)
+## 🎯 Αποστολή μας
 
-## Git ασκήσεις (ιδέες)
-1. Δημιουργήστε branch `feature-colors`, αλλάξτε χρώματα στο CSS, κάντε 2–3 commits, και merge στο `main`.
-2. Δημιουργήστε branch `feature-about` για νέα σελίδα/ενότητα και merge.
-3. Προκαλέστε μικρό conflict αλλάζοντας την ίδια γραμμή στο `index.html` από δύο branches, και λύστε το.
-4. Δημιουργήστε tag `v1.0` μετά το merge όλων.
-5. Προσθέστε `.gitignore` κανόνες για `temp/`, αρχεία logs, αρχεία συστήματος.
+Να δημιουργούμε λύσεις που είναι:
+1.  **Λειτουργικές**
+2.  **Αισθητικά άρτιες**
+3.  **Απλές και προσβάσιμες**
 
-## .gitignore – Τι πρέπει να αγνοείται;
-- **Αρχεία συστήματος**: `.DS_Store` (macOS), `Thumbs.db` (Windows)
-- **Προσωρινά/πρόχειρα**: φάκελος `temp/`, αρχεία `*.tmp`, `*.bak`
-- **Logs**: `*.log`
-- **Τοπικές ρυθμίσεις editor/IDE** (προαιρετικά): `.vscode/`, `.idea/`
+---
 
-> Δείτε το `.gitignore` μέσα στο repo: έχει σχόλια και TODOs για να το ολοκληρώσετε μόνοι σας.
+## 🧑‍🤝‍🧑 Η Ομάδα
+
+### **Φοινικίδης Αριστείδης**
+*Lead Developer & Project Manager*
+> Αρχιτεκτονική συστημάτων & οργάνωση έργου.
+
+### **Κλέαρχος Χλιούμπης**
+*Creative Director & UI/UX Specialist*
+> Οπτική ταυτότητα, σχεδιασμός και εμπειρία χρήστη.
+
+---
+
+## 💡 Αξίες μας
+
+*   **Καινοτομία** – Δημιουργούμε τάσεις, δεν τις ακολουθούμε.
+*   **Ποιότητα** – Κάθε λεπτομέρεια μετράει.
+*   **Διαφάνεια** – Καθαρή και ανοιχτή επικοινωνία.
+
+---
+
+## 📅 Πορεία
+
+*   **2023:** Δημιουργία ιδέας & ομάδας.
+*   **2024:** Έναρξη Git project και πρώτες υλοποιήσεις.
+*   **Μέλλον:** Mobile apps, AI εργαλεία, εξελιγμένες web λύσεις.
+
+---
+
+## 🖼️ Gallery – Git Work
+
+Παρακάτω περιλαμβάνονται screenshots από τη χρήση Git των μελών της ομάδας.
+
+### 📌 Κλέαρχος Χλιούμπης
+
+<div align="center">
+
+<h3>git status & add</h3>
+
+<img src="assets/img/Klearxos_Xlioumphs_bash_1.png" alt="Klearchos Status" width="90%">
+
+<br><br>
+
+<h3>git commit -m</h3>
+
+<img src="assets/img/Klearxos_Xlioumphs_bash_2.png" alt="Klearchos Commit" width="90%">
+
+<br><br>
+
+<h3>git log history</h3>
+
+<img src="assets/img/Klearxos_Xlioumphs_bash_3.png" alt="Klearchos Log" width="90%">
+
+</div>
+
+<br>
+<hr>
+<br>
+
+### 📌 Φοινικίδης Αριστείδης
+
+<div align="center">
+
+<h3>git status</h3>
+
+<img src="assets/img/Aristidis_Finikidis_bash_1.png" alt="Aristidis Status" width="90%">
+
+<br><br>
+
+<h3>git commit</h3>
+
+<img src="assets/img/Aristidis_Finikidis_bash_2.png" alt="Aristidis Commit" width="90%">
+
+<br><br>
+
+<h3>git log</h3>
+
+<img src="assets/img/Aristidis_Finikidis_bash_3.png" alt="Aristidis Log" width="90%">
+
+</div>
+
+---
+
+## 📫 Επικοινωνία
+
+📩 [contact@digitalhorizon.gr](mailto:contact@digitalhorizon.gr)
