@@ -52,8 +52,12 @@ body {
 header {
   border-bottom: 1px solid #e5e7eb;
 }
+header p{
+  text-align: center;
+}
 h1 {
   margin: 0.25rem 0;
+  text-align: center;
 }
 .tagline {
   color: var(--muted);
@@ -66,9 +70,19 @@ nav a {
 }
 nav a:hover {
   text-decoration: underline;
+  font-weight: bold;
 }
 section {
   margin: 2rem 0;
+}
+section h2{
+  color: red;
+}
+section p{
+  color:blue;
+}
+section ul{
+  color:purple;
 }
 footer {
   border-top: 1px solid #e5e7eb;
