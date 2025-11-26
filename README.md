@@ -95,7 +95,7 @@
 
 <h3>git log</h3>
 
-<img src="assets/img/Aristeidhs_Foinikidhs_bashh_3.png" alt="Aristidis Log" width="90%">
+<img src="assets/img/Aristeidhs_Foinikidhs_bash_3.png" alt="Aristidis Log" width="90%">
 
 </div>
 
