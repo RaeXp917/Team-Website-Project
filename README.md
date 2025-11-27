@@ -99,6 +99,20 @@
 
 </div>
 
+<br>
+<hr>
+<br>
+
+### 🚀 Τελική Υποβολή (Tag & Push v1.0)
+
+<div align="center">
+<h3>Merge, Tag v1.0 & Final Push</h3>
+<p>Απόδειξη ολοκλήρωσης της διαδικασίας και ανεβάσματος στο GitHub.</p>
+
+<img src="assets/img/final_tag_push.png" alt="Final Tag and Push" width="90%">
+
+</div>
+
 ---
 
 ## 📫 Επικοινωνία
