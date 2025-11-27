@@ -83,19 +83,19 @@
 
 <h3>git status</h3>
 
-<img src="assets/img/Aristidis_Finikidis_bash_1.png" alt="Aristidis Status" width="90%">
+<img src="assets/img/Aristeidhs_Foinikidhs_bash_1.png" alt="Aristidis Status" width="90%">
 
 <br><br>
 
 <h3>git commit</h3>
 
-<img src="assets/img/Aristidis_Finikidis_bash_2.png" alt="Aristidis Commit" width="90%">
+<img src="assets/img/Aristeidhs_Foinikidhs_bash_2.png" alt="Aristidis Commit" width="90%">
 
 <br><br>
 
 <h3>git log</h3>
 
-<img src="assets/img/Aristidis_Finikidis_bash_3.png" alt="Aristidis Log" width="90%">
+<img src="assets/img/Aristeidhs_Foinikidhs_bash_3.png" alt="Aristidis Log" width="90%">
 
 </div>
 
